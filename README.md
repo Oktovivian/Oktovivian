@@ -18,11 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Oktovivian</h1>
 <h3 align="center">I'm CS Student from Indonesia who's very interested in data, machine learning, deep learning, AI.....</h3>
 -->
-- 🌱 I’m currently learning **Python, R, Statistic, MySQL, and some basic things to become a data analyst**
-
-- 📝 I regularly write articles on [https://oktovivian.wordpress.com](https://oktovivian.wordpress.com)
-
-- 💬 Ask me about **Python, R, RStudio, Excel, MySQL**
+- 📝 I regularly write articles on [https://medium.com/@oktovivian](https://medium.com/@oktovivian)
 
 - 📫 How to reach me **vianokto30@gmail.com**
 
