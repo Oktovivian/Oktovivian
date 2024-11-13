@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="centerOktovivian</h1>
+<h3 align="center">Specialization: Artificial Neural Network, Advanced Computer Vision, Deep Learning, Machine Learning, Human Learning</h3>
+- 📝 articles [https://medium.com/@oktovivian](https://medium.com/@oktovivian)
+- 🖥️ sites (https://oktovivian.github.io/)
 
 <!--
 **Oktovivian/Oktovivian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
