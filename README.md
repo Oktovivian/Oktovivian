@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1 align="center">Hi 👋, I'm Oktovivian</h1>
-<h3 align="center">I'm CS Student from Indonesia who's very interested in data, machine learning, deep learning, AI.....</h3>
+<h1 align="centerOktovivian</h1>
+<h3 align="center">Specialization: Artificial Neural Network, Advanced Computer Vision, Deep Learning, Machine Learning, Human Learning</h3>
 - 📝 I regularly write articles on [https://medium.com/@oktovivian](https://medium.com/@oktovivian)
 
 - 📫 How to reach me **vianokto30@gmail.com**
