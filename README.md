@@ -1,9 +1,12 @@
-<h1 align="centerOktovivian</h1>
+<h1 align="center">Ramadhan Oktovivian Muhammad</h1>
+<h4 align="center">Computer Science at Telkom University</h4>
 
-  Specialization: Artificial Neural Network, Advanced Computer Vision, Deep Learning, Machine Learning, Human Learning</h3>
-  
-- 📝 articles (https://medium.com/@oktovivian)
-- 🖥️ sites (https://oktovivian.github.io/)
+
+<p align="center">Specialization: Artificial Neural Networks, Advanced Computer Vision, Deep Learning, Machine Learning, Human Learning </p>
+
+- 📝 [Articles](https://medium.com/@oktovivian)
+- 🖥️ [Website](https://oktovivian.github.io/)
+
 
 <!--
 **Oktovivian/Oktovivian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
