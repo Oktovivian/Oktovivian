@@ -2,7 +2,7 @@
 <h4 align="center">Computer Science at Telkom University</h4>
 
 
-<p align="center">Specialization: Artificial Neural Networks, Advanced Computer Vision, Deep Learning, Machine Learning, Human Learning, Natural Language Processing, Recommender System, Dashboard Designer</p>
+<p align="center">Specialization: Artificial Neural Networks, Advanced Computer Vision, Deep Learning, Machine Learning, Human Learning, Natural Language Processing, Recommender System, Business Dashboard, Data Analytics</p>
 
 - 📝 [Articles](https://medium.com/@oktovivian)
 - 🖥️ [Website](https://oktovivian.github.io/)
