@@ -6,7 +6,7 @@
 
 - 📝 [Articles](https://medium.com/@oktovivian)
 - 🖥️ [Website](https://oktovivian.github.io/)
-
+- 📚 [Kaggle](https://www.kaggle.com/oktovivianm)
 
 <!--
 **Oktovivian/Oktovivian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
