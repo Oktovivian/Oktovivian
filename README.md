@@ -1,5 +1,5 @@
 <h1 align="center">Ramadhan Oktovivian Muhammad</h1>
-<h4 align="center">Computer Science Student at Telkom University</h4>
+<h4 align="center">Computer Science Student and Research Assistant at Telkom University</h4>
 
 
 <p align="center">Specialization: Artificial Neural Networks, Advanced Computer Vision, Deep Learning, Machine Learning, Human Learning, Natural Language Processing, Recommender System, Business Dashboard, Data Analytics</p>
